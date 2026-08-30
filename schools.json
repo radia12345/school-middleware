@@ -6,7 +6,7 @@
   "111": {
     "school_code": "111",
     "school_name": "ZST School ERP",
-    "last_updated": "2026-08-30T10:07:06.078Z",
+    "last_updated": "2026-08-30T10:07:08.554Z",
     "families": {
       "FAM1116587": {
         "family_code": "FAM1116587",
@@ -161,7 +161,7 @@
           "pending_balance": 0,
           "records": []
         },
-        "updated_at": "2026-08-30T10:06:08.695Z",
+        "updated_at": "2026-08-30T10:07:08.554Z",
         "school_code": "111"
       }
     }
