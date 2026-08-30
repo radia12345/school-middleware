@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-30T12:49:42.050Z",
+    "last_updated": "2026-08-30T12:50:40.015Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -127,7 +127,7 @@
         "name": "Qasim",
         "designation": "Teacher",
         "school_code": "001",
-        "updated_at": "2026-08-30T12:48:39.908Z"
+        "updated_at": "2026-08-30T12:50:40.015Z"
       }
     },
     "announcements": [],
