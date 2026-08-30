@@ -6,7 +6,35 @@
   "111": {
     "school_code": "111",
     "school_name": "ZST School ERP",
-    "last_updated": "2026-08-30T10:40:12.599Z"
+    "last_updated": "2026-08-30T10:40:52.124Z",
+    "families": {
+      "FAM1116587": {
+        "family_code": "FAM1116587",
+        "students": [
+          {
+            "id": 5,
+            "name": "ahmad",
+            "class_name": "3rd",
+            "section_name": null,
+            "status": "Active"
+          }
+        ],
+        "total_students": 1,
+        "results": [],
+        "fee": {
+          "total_vouchers": 0,
+          "total_paid": 0,
+          "pending_balance": 0,
+          "due_date": null,
+          "late_fee_fine": 0,
+          "records": []
+        },
+        "updated_at": "2026-08-30T10:40:52.124Z"
+      }
+    },
+    "teachers": {},
+    "announcements": [],
+    "homework": []
   },
   "001": {
     "school_name": "The City School",
