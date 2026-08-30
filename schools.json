@@ -6,7 +6,7 @@
   "111": {
     "school_code": "111",
     "school_name": "ZST School ERP",
-    "last_updated": "2026-08-30T10:40:52.124Z",
+    "last_updated": "2026-08-30T10:40:53.899Z",
     "families": {
       "FAM1116587": {
         "family_code": "FAM1116587",
@@ -30,6 +30,29 @@
           "records": []
         },
         "updated_at": "2026-08-30T10:40:52.124Z"
+      },
+      "FAM1112369": {
+        "family_code": "FAM1112369",
+        "students": [
+          {
+            "id": 6,
+            "name": "ali",
+            "class_name": "5th",
+            "section_name": null,
+            "status": "Active"
+          }
+        ],
+        "total_students": 1,
+        "results": [],
+        "fee": {
+          "total_vouchers": 0,
+          "total_paid": 0,
+          "pending_balance": 0,
+          "due_date": null,
+          "late_fee_fine": 500,
+          "records": []
+        },
+        "updated_at": "2026-08-30T10:40:53.899Z"
       }
     },
     "teachers": {},
