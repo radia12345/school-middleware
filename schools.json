@@ -168,7 +168,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-30T10:39:47.496Z",
+    "last_updated": "2026-08-30T10:39:50.979Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -206,81 +206,26 @@
       },
       "FAM0012183": {
         "family_code": "FAM0012183",
-        "family": {
-          "id": 3,
-          "family_code": "FAM0012183",
-          "father_name": "Zaman",
-          "father_cnic": "3640148532183",
-          "father_occupation": null,
-          "father_contact": null,
-          "father_email": null,
-          "mother_name": null,
-          "mother_occupation": null,
-          "mother_contact": null,
-          "guardian_name": null,
-          "guardian_contact": null,
-          "guardian_email": null,
-          "address": null,
-          "city": null,
-          "area": null,
-          "total_siblings": 1,
-          "created_at": "2026-08-28 14:56:51",
-          "updated_at": "2026-08-28 14:56:51",
-          "is_synced": 0,
-          "synced_at": null,
-          "mother_cnic": null
-        },
         "students": [
           {
             "id": 4,
-            "admission_no": "STU-2026-7426",
-            "roll_no": null,
             "name": "Qasim",
-            "father_name": "Zaman",
-            "father_cnic": "3640148532183",
-            "mother_name": null,
-            "guardian_name": null,
-            "guardian_contact": null,
-            "guardian_email": null,
-            "guardian_address": null,
-            "gender": "Male",
-            "dob": null,
-            "place_of_birth": null,
-            "nationality": "Pakistani",
-            "religion": null,
-            "class_id": 9,
-            "section_id": null,
-            "group_id": null,
-            "admission_date": "2026-08-28",
-            "previous_school": null,
-            "previous_class": null,
-            "transfer_certificate": null,
-            "photo_path": null,
-            "status": "Active",
-            "family_id": 3,
-            "created_at": "2026-08-28 14:56:51",
-            "updated_at": "2026-08-28 14:56:51",
-            "synced_at": null,
-            "is_synced": 0,
-            "documents": null
+            "class_name": "6th",
+            "section_name": null,
+            "status": "Active"
           }
         ],
         "total_students": 1,
         "results": [],
-        "result_summary": {
-          "total_results": 0,
-          "average_percentage": 0,
-          "passed": 0,
-          "failed": 0
-        },
         "fee": {
           "total_vouchers": 0,
           "total_paid": 0,
           "pending_balance": 0,
+          "due_date": null,
+          "late_fee_fine": 500,
           "records": []
         },
-        "updated_at": "2026-08-30T10:38:04.023Z",
-        "school_code": "001"
+        "updated_at": "2026-08-30T10:39:50.979Z"
       }
     },
     "teachers": {
