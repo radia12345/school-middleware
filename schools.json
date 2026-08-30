@@ -6,7 +6,87 @@
   "111": {
     "school_code": "111",
     "school_name": "ZST School ERP",
-    "last_updated": "2026-08-30T09:17:11.902Z"
+    "last_updated": "2026-08-30T09:28:05.536Z",
+    "families": {
+      "FAM1116587": {
+        "family_code": "FAM1116587",
+        "family": {
+          "id": 4,
+          "family_code": "FAM1116587",
+          "father_name": "ali",
+          "father_cnic": "36401425536587",
+          "father_occupation": null,
+          "father_contact": null,
+          "father_email": null,
+          "mother_name": null,
+          "mother_occupation": null,
+          "mother_contact": null,
+          "guardian_name": null,
+          "guardian_contact": null,
+          "guardian_email": null,
+          "address": null,
+          "city": null,
+          "area": null,
+          "total_siblings": 1,
+          "created_at": "2026-08-30 05:04:31",
+          "updated_at": "2026-08-30 05:04:31",
+          "is_synced": 0,
+          "synced_at": null,
+          "mother_cnic": null
+        },
+        "students": [
+          {
+            "id": 5,
+            "admission_no": "STU-2026-7241",
+            "roll_no": null,
+            "name": "ahmad",
+            "father_name": "ali",
+            "father_cnic": "36401425536587",
+            "mother_name": null,
+            "guardian_name": null,
+            "guardian_contact": null,
+            "guardian_email": null,
+            "guardian_address": null,
+            "gender": "Male",
+            "dob": null,
+            "place_of_birth": null,
+            "nationality": "Pakistani",
+            "religion": null,
+            "class_id": 6,
+            "section_id": null,
+            "group_id": null,
+            "admission_date": "2026-08-30",
+            "previous_school": null,
+            "previous_class": null,
+            "transfer_certificate": null,
+            "photo_path": null,
+            "status": "Active",
+            "family_id": 4,
+            "created_at": "2026-08-30 05:04:31",
+            "updated_at": "2026-08-30 05:04:31",
+            "synced_at": null,
+            "is_synced": 0,
+            "documents": null
+          }
+        ],
+        "total_students": 1,
+        "results": [],
+        "result_summary": {
+          "total_results": 0,
+          "average_percentage": 0,
+          "passed": 0,
+          "failed": 0
+        },
+        "fee": {
+          "total_vouchers": 0,
+          "total_paid": 0,
+          "pending_balance": 0,
+          "records": []
+        },
+        "updated_at": "2026-08-30T09:28:05.536Z",
+        "school_code": "111"
+      }
+    }
   },
   "001": {
     "school_name": "The City School",
