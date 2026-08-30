@@ -1,23 +1,18 @@
 {
-  "101": {
-    "drive_link": "https://drive.google.com/drive/folders/ghi789rst",
-    "school_name": "Allied School",
-    "last_updated": "2026-08-27"
-  },
-  "111": {
-    "drive_link": "https://drive.google.com/drive/folders/1UPTZJbBmcs1bNJN7-808MPG95zT3gCCL",
-    "drive_email": "chuhadryqasim786@gmail.com",
-    "school_name": "ZST School ERP",
-    "last_updated": "2026-08-30"
-  },
   "001": {
-    "drive_link": "https://drive.google.com/drive/folders/abc123xyz",
     "school_name": "The City School",
     "last_updated": "2026-08-29"
   },
   "002": {
-    "drive_link": "https://drive.google.com/drive/folders/def456uvw",
     "school_name": "Beaconhouse School",
     "last_updated": "2026-08-28"
+  },
+  "101": {
+    "school_name": "Allied School",
+    "last_updated": "2026-08-27"
+  },
+  "111": {
+    "school_name": "ZST School ERP",
+    "last_updated": "2026-08-30"
   }
 }
