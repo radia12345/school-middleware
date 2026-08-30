@@ -168,7 +168,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-30T09:37:01.852Z",
+    "last_updated": "2026-08-30T09:37:04.249Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -324,7 +324,7 @@
           "pending_balance": 0,
           "records": []
         },
-        "updated_at": "2026-08-30T09:36:03.482Z",
+        "updated_at": "2026-08-30T09:37:04.249Z",
         "school_code": "001"
       }
     }
