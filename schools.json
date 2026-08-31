@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-31T08:36:18.060Z",
+    "last_updated": "2026-08-31T08:36:53.672Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -103,22 +103,50 @@
           {
             "id": 4,
             "name": "Qasim",
-            "class_name": "6th",
+            "class_name": null,
             "section_name": null,
             "status": "Active"
           }
         ],
         "total_students": 1,
-        "results": [],
+        "results": [
+          {
+            "student_name": "Qasim",
+            "subject_name": null,
+            "obtained_marks": 90,
+            "total_marks": 100,
+            "percentage": 0,
+            "grade": null,
+            "exam_name": null
+          },
+          {
+            "student_name": "Qasim",
+            "subject_name": null,
+            "obtained_marks": 80,
+            "total_marks": 100,
+            "percentage": 0,
+            "grade": null,
+            "exam_name": null
+          },
+          {
+            "student_name": "Qasim",
+            "subject_name": null,
+            "obtained_marks": 75,
+            "total_marks": 100,
+            "percentage": 0,
+            "grade": null,
+            "exam_name": null
+          }
+        ],
         "fee": {
           "total_vouchers": 0,
           "total_paid": 0,
           "pending_balance": 0,
           "due_date": null,
-          "late_fee_fine": 500,
+          "late_fee_fine": 0,
           "records": []
         },
-        "updated_at": "2026-08-31T08:36:14.245Z"
+        "updated_at": "2026-08-31T08:36:53.672Z"
       },
       "FAM0010002": {
         "family_code": "FAM0010002",
