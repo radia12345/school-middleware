@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-31T06:44:55.008Z",
+    "last_updated": "2026-08-31T06:44:56.978Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -118,7 +118,7 @@
           "late_fee_fine": 500,
           "records": []
         },
-        "updated_at": "2026-08-31T06:43:56.659Z"
+        "updated_at": "2026-08-31T06:44:56.978Z"
       }
     },
     "teachers": {
