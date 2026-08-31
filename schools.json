@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-31T08:14:21.866Z",
+    "last_updated": "2026-08-31T08:14:23.782Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -129,37 +129,9 @@
             "class_name": "4th",
             "section_name": null,
             "status": "Active"
-          },
-          {
-            "id": 8,
-            "name": "qasim",
-            "class_name": "4th",
-            "section_name": null,
-            "status": "Active"
-          },
-          {
-            "id": 9,
-            "name": "qasim",
-            "class_name": "4th",
-            "section_name": null,
-            "status": "Active"
-          },
-          {
-            "id": 10,
-            "name": "qasim",
-            "class_name": "4th",
-            "section_name": null,
-            "status": "Active"
-          },
-          {
-            "id": 11,
-            "name": "qasim",
-            "class_name": "4th",
-            "section_name": null,
-            "status": "Active"
           }
         ],
-        "total_students": 5,
+        "total_students": 1,
         "results": [],
         "fee": {
           "total_vouchers": 0,
@@ -169,7 +141,7 @@
           "late_fee_fine": 0,
           "records": []
         },
-        "updated_at": "2026-08-31T08:13:32.292Z"
+        "updated_at": "2026-08-31T08:14:23.782Z"
       }
     },
     "teachers": {
