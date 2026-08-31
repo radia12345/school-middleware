@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-31T08:36:56.894Z",
+    "last_updated": "2026-08-31T08:36:58.784Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -103,7 +103,7 @@
           {
             "id": 4,
             "name": "Qasim",
-            "class_name": null,
+            "class_name": "6th",
             "section_name": null,
             "status": "Active"
           }
@@ -112,21 +112,30 @@
         "results": [
           {
             "student_name": "Qasim",
-            "subject_name": null,
+            "subject_name": "ENGLISH",
             "obtained_marks": 90,
             "total_marks": 100,
             "percentage": 0,
             "grade": null,
-            "exam_name": null
+            "exam_name": "December"
           },
           {
             "student_name": "Qasim",
-            "subject_name": null,
+            "subject_name": "ISLAMIYAT",
             "obtained_marks": 80,
             "total_marks": 100,
             "percentage": 0,
             "grade": null,
-            "exam_name": null
+            "exam_name": "December"
+          },
+          {
+            "student_name": "Qasim",
+            "subject_name": "URDU",
+            "obtained_marks": 75,
+            "total_marks": 100,
+            "percentage": 0,
+            "grade": null,
+            "exam_name": "December"
           }
         ],
         "fee": {
@@ -134,10 +143,10 @@
           "total_paid": 0,
           "pending_balance": 0,
           "due_date": null,
-          "late_fee_fine": 0,
+          "late_fee_fine": 500,
           "records": []
         },
-        "updated_at": "2026-08-31T08:36:56.894Z"
+        "updated_at": "2026-08-31T08:36:58.784Z"
       },
       "FAM0010002": {
         "family_code": "FAM0010002",
