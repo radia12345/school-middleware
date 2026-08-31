@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-08-31T08:36:53.672Z",
+    "last_updated": "2026-08-31T08:36:56.894Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -127,15 +127,6 @@
             "percentage": 0,
             "grade": null,
             "exam_name": null
-          },
-          {
-            "student_name": "Qasim",
-            "subject_name": null,
-            "obtained_marks": 75,
-            "total_marks": 100,
-            "percentage": 0,
-            "grade": null,
-            "exam_name": null
           }
         ],
         "fee": {
@@ -146,7 +137,7 @@
           "late_fee_fine": 0,
           "records": []
         },
-        "updated_at": "2026-08-31T08:36:53.672Z"
+        "updated_at": "2026-08-31T08:36:56.894Z"
       },
       "FAM0010002": {
         "family_code": "FAM0010002",
