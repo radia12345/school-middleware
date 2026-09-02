@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-09-02T05:04:41.877Z",
+    "last_updated": "2026-09-02T05:05:00.122Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -103,7 +103,7 @@
           {
             "id": 4,
             "name": "Qasim",
-            "class_name": "6th",
+            "class_name": null,
             "section_name": null,
             "status": "Active"
           }
@@ -112,30 +112,30 @@
         "results": [
           {
             "student_name": "Qasim",
-            "subject_name": "ENGLISH",
+            "subject_name": null,
             "obtained_marks": 90,
             "total_marks": 100,
             "percentage": 0,
             "grade": null,
-            "exam_name": "December"
+            "exam_name": null
           },
           {
             "student_name": "Qasim",
-            "subject_name": "ISLAMIYAT",
+            "subject_name": null,
             "obtained_marks": 80,
             "total_marks": 100,
             "percentage": 0,
             "grade": null,
-            "exam_name": "December"
+            "exam_name": null
           },
           {
             "student_name": "Qasim",
-            "subject_name": "URDU",
+            "subject_name": null,
             "obtained_marks": 75,
             "total_marks": 100,
             "percentage": 0,
             "grade": null,
-            "exam_name": "December"
+            "exam_name": null
           }
         ],
         "fee": {
@@ -143,7 +143,7 @@
           "total_paid": 0,
           "pending_balance": 20,
           "due_date": "2026-09-26",
-          "late_fee_fine": 500,
+          "late_fee_fine": 0,
           "records": [
             {
               "voucher_no": "V-2026-069560-003",
@@ -156,7 +156,7 @@
             }
           ]
         },
-        "updated_at": "2026-09-02T05:04:40.051Z"
+        "updated_at": "2026-09-02T05:05:00.122Z"
       },
       "FAM0010002": {
         "family_code": "FAM0010002",
