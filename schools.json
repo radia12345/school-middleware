@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-09-02T05:06:41.099Z",
+    "last_updated": "2026-09-02T05:06:42.745Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -164,7 +164,7 @@
           {
             "id": 7,
             "name": "qasim",
-            "class_name": null,
+            "class_name": "4th",
             "section_name": null,
             "status": "Active"
           }
@@ -176,7 +176,7 @@
           "total_paid": 0,
           "pending_balance": 5000,
           "due_date": "2026-09-26",
-          "late_fee_fine": 0,
+          "late_fee_fine": 500,
           "records": [
             {
               "voucher_no": "V-2026-540880",
@@ -189,7 +189,7 @@
             }
           ]
         },
-        "updated_at": "2026-09-02T05:05:43.057Z"
+        "updated_at": "2026-09-02T05:06:42.745Z"
       }
     },
     "teachers": {
