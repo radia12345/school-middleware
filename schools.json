@@ -61,7 +61,7 @@
   },
   "001": {
     "school_name": "The City School",
-    "last_updated": "2026-09-02T05:20:40.039Z",
+    "last_updated": "2026-09-02T05:20:42.041Z",
     "school_code": "001",
     "families": {
       "FAM0015523": {
@@ -189,7 +189,7 @@
             }
           ]
         },
-        "updated_at": "2026-09-02T05:19:43.280Z"
+        "updated_at": "2026-09-02T05:20:42.041Z"
       }
     },
     "teachers": {
