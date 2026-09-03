@@ -235,7 +235,7 @@
         ]
       },
       "attendance": [],
-      "updated_at": "2026-09-03T07:54:25.355Z"
+      "updated_at": "2026-09-03T07:55:24.740Z"
     },
     "FAM0040000": {
       "family_code": "FAM0040000",
@@ -640,7 +640,7 @@
       "name": "qasim",
       "designation": "Teacher",
       "school_code": "004",
-      "updated_at": "2026-09-03T07:55:23.845Z"
+      "updated_at": "2026-09-03T07:44:25.079Z"
     }
   },
   "announcements": [
@@ -654,5 +654,5 @@
     }
   ],
   "homework": [],
-  "last_updated": "2026-09-03T07:55:23.845Z"
+  "last_updated": "2026-09-03T07:55:24.740Z"
 }
