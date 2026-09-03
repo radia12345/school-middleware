@@ -1,8 +1,16 @@
 {
   "school_code": "999",
   "families": {},
-  "teachers": {},
+  "teachers": {
+    "STA9990000": {
+      "teacher_id": "STA9990000",
+      "name": "Qasim",
+      "designation": "Teacher",
+      "school_code": "999",
+      "updated_at": "2026-09-03T05:36:52.859Z"
+    }
+  },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-03T05:36:33.625Z"
+  "last_updated": "2026-09-03T05:36:52.859Z"
 }
