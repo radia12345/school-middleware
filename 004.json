@@ -1,0 +1,16 @@
+{
+  "school_code": "004",
+  "families": {},
+  "teachers": {
+    "STA0042183": {
+      "teacher_id": "STA0042183",
+      "name": "qasim",
+      "designation": "Teacher",
+      "school_code": "004",
+      "updated_at": "2026-09-03T06:16:44.276Z"
+    }
+  },
+  "announcements": [],
+  "homework": [],
+  "last_updated": "2026-09-03T06:16:44.276Z"
+}
