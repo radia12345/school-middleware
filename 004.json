@@ -1,16 +1,247 @@
 {
   "school_code": "004",
-  "families": {},
+  "families": {
+    "FAM0045523-01": {
+      "family_code": "FAM0045523-01",
+      "students": [
+        {
+          "id": 5,
+          "admission_no": "STU-2026-5222",
+          "roll_no": null,
+          "name": "maryam",
+          "class_name": "6th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 1500,
+            "pending_dues": 1500,
+            "status": "Pending",
+            "due_date": "2026-08-26",
+            "records": [
+              {
+                "id": 8,
+                "voucher_id": 6,
+                "student_id": 5,
+                "student_name": "maryam",
+                "class_name": "6th",
+                "fee_amount": 1500,
+                "discount_amount": 0,
+                "net_amount": 1500,
+                "is_paid": 0,
+                "discount_reason": null,
+                "voucher_no": "V-2026-824632-006",
+                "month_year": "2026-09",
+                "due_date": "2026-08-26",
+                "voucher_status": "Pending",
+                "total_amount": 1500,
+                "paid_amount": 0,
+                "balance_amount": 1500
+              }
+            ]
+          },
+          "results": [
+            {
+              "id": 9,
+              "exam_id": 3,
+              "student_id": 5,
+              "subject_id": 4,
+              "obtained_marks": 80,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 04:28:16",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "maryam",
+              "subject_name": "Physics",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 10,
+              "exam_id": 3,
+              "student_id": 5,
+              "subject_id": 3,
+              "obtained_marks": 90,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 04:28:16",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "maryam",
+              "subject_name": "islamiyat",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 11,
+              "exam_id": 3,
+              "student_id": 5,
+              "subject_id": 1,
+              "obtained_marks": 80,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 04:28:16",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "maryam",
+              "subject_name": "math",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 12,
+              "exam_id": 3,
+              "student_id": 5,
+              "subject_id": 2,
+              "obtained_marks": 75,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 04:28:16",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "maryam",
+              "subject_name": "pak study",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 13,
+              "exam_id": 3,
+              "student_id": 5,
+              "subject_id": 5,
+              "obtained_marks": 65,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 04:28:16",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "maryam",
+              "subject_name": "urdu",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            }
+          ],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": [
+            {
+              "student_id": 5,
+              "month": "2026-08",
+              "total_days": 1,
+              "present_days": 0,
+              "percentage": 0
+            }
+          ]
+        }
+      ],
+      "total_students": 1,
+      "results": [
+        {
+          "student_id": 5,
+          "student_name": "maryam",
+          "subject_name": "Physics",
+          "obtained_marks": 80,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "Monthly"
+        },
+        {
+          "student_id": 5,
+          "student_name": "maryam",
+          "subject_name": "islamiyat",
+          "obtained_marks": 90,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "Monthly"
+        },
+        {
+          "student_id": 5,
+          "student_name": "maryam",
+          "subject_name": "math",
+          "obtained_marks": 80,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "Monthly"
+        },
+        {
+          "student_id": 5,
+          "student_name": "maryam",
+          "subject_name": "pak study",
+          "obtained_marks": 75,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "Monthly"
+        },
+        {
+          "student_id": 5,
+          "student_name": "maryam",
+          "subject_name": "urdu",
+          "obtained_marks": 65,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "Monthly"
+        }
+      ],
+      "fee": {
+        "total_vouchers": 1,
+        "total_paid": 0,
+        "pending_balance": 1500,
+        "late_fee_fine": 500,
+        "records": [
+          {
+            "voucher_no": "V-2026-824632-006",
+            "month_year": "2026-09",
+            "due_date": "2026-08-26",
+            "total_amount": 1500,
+            "paid_amount": 0,
+            "balance_amount": 1500,
+            "status": "Pending"
+          }
+        ]
+      },
+      "attendance": [],
+      "updated_at": "2026-09-03T06:41:38.298Z"
+    }
+  },
   "teachers": {
     "STA0042183": {
       "teacher_id": "STA0042183",
       "name": "qasim",
       "designation": "Teacher",
       "school_code": "004",
-      "updated_at": "2026-09-03T06:41:37.096Z"
+      "updated_at": "2026-09-03T06:20:07.969Z"
     }
   },
-  "announcements": [],
+  "announcements": [
+    {
+      "title": "Welcome to ZST School ERP",
+      "body": "You can now send announcements to all parents from this system.",
+      "type": "Announcement",
+      "audience": "all",
+      "class_name": null,
+      "created_at": "2026-08-26 10:51:07"
+    }
+  ],
   "homework": [],
-  "last_updated": "2026-09-03T06:41:37.096Z"
+  "last_updated": "2026-09-03T06:41:38.298Z"
 }
