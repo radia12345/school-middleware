@@ -154,52 +154,67 @@
         {
           "student_id": 5,
           "student_name": "maryam",
+          "subject_id": 4,
           "subject_name": "Physics",
           "obtained_marks": 80,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 80,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 5,
           "student_name": "maryam",
+          "subject_id": 3,
           "subject_name": "islamiyat",
           "obtained_marks": 90,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 90,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 5,
           "student_name": "maryam",
+          "subject_id": 1,
           "subject_name": "math",
           "obtained_marks": 80,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 80,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 5,
           "student_name": "maryam",
+          "subject_id": 2,
           "subject_name": "pak study",
           "obtained_marks": 75,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 75,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 5,
           "student_name": "maryam",
+          "subject_id": 5,
           "subject_name": "urdu",
           "obtained_marks": 65,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 65,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         }
       ],
       "fee": {
@@ -220,7 +235,7 @@
         ]
       },
       "attendance": [],
-      "updated_at": "2026-09-03T06:46:34.539Z"
+      "updated_at": "2026-09-03T06:47:22.573Z"
     },
     "FAM0040000": {
       "family_code": "FAM0040000",
@@ -610,7 +625,7 @@
       "name": "qasim",
       "designation": "Teacher",
       "school_code": "004",
-      "updated_at": "2026-09-03T06:47:22.118Z"
+      "updated_at": "2026-09-03T06:20:07.969Z"
     }
   },
   "announcements": [
@@ -624,5 +639,5 @@
     }
   ],
   "homework": [],
-  "last_updated": "2026-09-03T06:47:22.118Z"
+  "last_updated": "2026-09-03T06:47:22.573Z"
 }
