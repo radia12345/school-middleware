@@ -1,16 +1,242 @@
 {
   "school_code": "999",
-  "families": {},
-  "teachers": {
-    "STA9990000": {
-      "teacher_id": "STA9990000",
-      "name": "Qasim",
-      "designation": "Teacher",
-      "school_code": "999",
-      "updated_at": "2026-09-03T05:36:52.859Z"
+  "families": {
+    "FAM9992183": {
+      "family_code": "FAM9992183",
+      "students": [
+        {
+          "id": 4,
+          "admission_no": "STU-2026-7426",
+          "roll_no": null,
+          "name": "Qasim",
+          "class_name": "6th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 20,
+            "pending_dues": 20,
+            "status": "Pending",
+            "due_date": "2026-09-26",
+            "records": [
+              {
+                "id": 4,
+                "voucher_id": 3,
+                "student_id": 4,
+                "student_name": "Qasim",
+                "class_name": "6th",
+                "fee_amount": 20,
+                "discount_amount": 0,
+                "discount_reason": null,
+                "net_amount": 20,
+                "is_paid": 0,
+                "voucher_no": "V-2026-069560-003",
+                "month_year": "2026-09",
+                "due_date": "2026-09-26",
+                "voucher_status": "Pending",
+                "total_amount": 20,
+                "paid_amount": 0,
+                "balance_amount": 20
+              }
+            ]
+          },
+          "results": [
+            {
+              "id": 5,
+              "exam_id": 3,
+              "student_id": 4,
+              "subject_id": 4,
+              "obtained_marks": 90,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 08:36:52",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Qasim",
+              "subject_name": "ENGLISH",
+              "exam_name": "December",
+              "exam_type": "December"
+            },
+            {
+              "id": 6,
+              "exam_id": 3,
+              "student_id": 4,
+              "subject_id": 6,
+              "obtained_marks": 80,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 08:36:52",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Qasim",
+              "subject_name": "ISLAMIYAT",
+              "exam_name": "December",
+              "exam_type": "December"
+            },
+            {
+              "id": 7,
+              "exam_id": 3,
+              "student_id": 4,
+              "subject_id": 5,
+              "obtained_marks": 75,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-08-31 08:36:52",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Qasim",
+              "subject_name": "URDU",
+              "exam_name": "December",
+              "exam_type": "December"
+            }
+          ],
+          "test_series": [
+            {
+              "id": 1788155479146,
+              "date": "2026-08-31",
+              "subject": "ENGLISH",
+              "total_marks": 100,
+              "obtained_marks": 50,
+              "percentage": 50,
+              "grade": "C+",
+              "series_id": 1,
+              "academic_year": "2026",
+              "class_id": 9
+            },
+            {
+              "id": "series-new-1788160919599-0.5764256976219999",
+              "date": "2026-08-11",
+              "subject": "URDU",
+              "total_marks": 100,
+              "obtained_marks": 90,
+              "percentage": 90,
+              "grade": "A+",
+              "series_id": 1,
+              "academic_year": "2026",
+              "class_id": 9
+            },
+            {
+              "id": "series-new-1788160995370-0.6836520744257601",
+              "date": "2026-08-13",
+              "subject": "URDU",
+              "total_marks": 100,
+              "obtained_marks": 60,
+              "percentage": 60,
+              "grade": "B",
+              "series_id": 1,
+              "academic_year": "2026",
+              "class_id": 9
+            }
+          ],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 1,
+      "results": [
+        {
+          "student_id": 4,
+          "student_name": "Qasim",
+          "subject_name": "ENGLISH",
+          "obtained_marks": 90,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "December"
+        },
+        {
+          "student_id": 4,
+          "student_name": "Qasim",
+          "subject_name": "ISLAMIYAT",
+          "obtained_marks": 80,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "December"
+        },
+        {
+          "student_id": 4,
+          "student_name": "Qasim",
+          "subject_name": "URDU",
+          "obtained_marks": 75,
+          "total_marks": 100,
+          "percentage": 0,
+          "grade": null,
+          "exam_name": "December"
+        }
+      ],
+      "fee": {
+        "total_vouchers": 1,
+        "total_paid": 0,
+        "pending_balance": 20,
+        "late_fee_fine": 500,
+        "records": [
+          {
+            "voucher_no": "V-2026-069560-003",
+            "month_year": "2026-09",
+            "due_date": "2026-09-26",
+            "total_amount": 20,
+            "paid_amount": 0,
+            "balance_amount": 20,
+            "status": "Pending"
+          }
+        ]
+      },
+      "attendance": [],
+      "updated_at": "2026-09-03T05:36:53.392Z"
     }
   },
-  "announcements": [],
+  "teachers": {},
+  "announcements": [
+    {
+      "title": "exam announcement",
+      "body": "exam start honay walay hain",
+      "type": "Exam Schedule",
+      "audience": "all",
+      "class_name": null,
+      "created_at": "2026-08-28 14:57:59"
+    },
+    {
+      "title": "lllll",
+      "body": "kkkkk",
+      "type": "Announcement",
+      "audience": "all",
+      "class_name": null,
+      "created_at": "2026-08-28 05:19:59"
+    },
+    {
+      "title": "kal chutti hay",
+      "body": "kal cutti hay",
+      "type": "Announcement",
+      "audience": "all",
+      "class_name": null,
+      "created_at": "2026-08-28 05:16:41"
+    },
+    {
+      "title": "exam status",
+      "body": "exam kal say start hain",
+      "type": "Exam Schedule",
+      "audience": "all",
+      "class_name": null,
+      "created_at": "2026-08-28 05:09:30"
+    },
+    {
+      "title": "Welcome to ZST School ERP",
+      "body": "You can now send announcements to all parents from this system.",
+      "type": "Announcement",
+      "audience": "all",
+      "class_name": null,
+      "created_at": "2026-08-28 04:46:12"
+    }
+  ],
   "homework": [],
-  "last_updated": "2026-09-03T05:36:52.859Z"
+  "last_updated": "2026-09-03T05:36:53.392Z"
 }
