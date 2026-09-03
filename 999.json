@@ -192,6 +192,72 @@
       },
       "attendance": [],
       "updated_at": "2026-09-03T05:36:53.392Z"
+    },
+    "FAM9990002": {
+      "family_code": "FAM9990002",
+      "students": [
+        {
+          "id": 7,
+          "admission_no": "STU-2026-5876",
+          "roll_no": null,
+          "name": "qasim",
+          "class_name": "4th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 5000,
+            "pending_dues": 5000,
+            "status": "Pending",
+            "due_date": "2026-09-26",
+            "records": [
+              {
+                "id": 5,
+                "voucher_id": 4,
+                "student_id": 7,
+                "student_name": "qasim",
+                "class_name": "4th",
+                "fee_amount": 5000,
+                "discount_amount": 0,
+                "discount_reason": null,
+                "net_amount": 5000,
+                "is_paid": 0,
+                "voucher_no": "V-2026-540880",
+                "month_year": "2026-09",
+                "due_date": "2026-09-26",
+                "voucher_status": "Pending",
+                "total_amount": 5000,
+                "paid_amount": 0,
+                "balance_amount": 5000
+              }
+            ]
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 1,
+      "results": [],
+      "fee": {
+        "total_vouchers": 1,
+        "total_paid": 0,
+        "pending_balance": 5000,
+        "late_fee_fine": 500,
+        "records": [
+          {
+            "voucher_no": "V-2026-540880",
+            "month_year": "2026-09",
+            "due_date": "2026-09-26",
+            "total_amount": 5000,
+            "paid_amount": 0,
+            "balance_amount": 5000,
+            "status": "Pending"
+          }
+        ]
+      },
+      "attendance": [],
+      "updated_at": "2026-09-03T05:36:57.532Z"
     }
   },
   "teachers": {},
@@ -238,5 +304,5 @@
     }
   ],
   "homework": [],
-  "last_updated": "2026-09-03T05:36:53.392Z"
+  "last_updated": "2026-09-03T05:36:57.532Z"
 }
