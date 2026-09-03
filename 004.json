@@ -409,52 +409,67 @@
         {
           "student_id": 6,
           "student_name": "aaaa",
+          "subject_id": 4,
           "subject_name": "Physics",
           "obtained_marks": 96,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 96,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 6,
           "student_name": "aaaa",
+          "subject_id": 3,
           "subject_name": "islamiyat",
           "obtained_marks": 55,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 55,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 6,
           "student_name": "aaaa",
+          "subject_id": 1,
           "subject_name": "math",
           "obtained_marks": 78,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 78,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 6,
           "student_name": "aaaa",
+          "subject_id": 2,
           "subject_name": "pak study",
           "obtained_marks": 70,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 70,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         },
         {
           "student_id": 6,
           "student_name": "aaaa",
+          "subject_id": 5,
           "subject_name": "urdu",
           "obtained_marks": 55,
           "total_marks": 100,
-          "percentage": 0,
+          "percentage": 55,
           "grade": null,
-          "exam_name": "Monthly"
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
         }
       ],
       "fee": {
@@ -484,7 +499,7 @@
         ]
       },
       "attendance": [],
-      "updated_at": "2026-09-03T06:46:39.413Z"
+      "updated_at": "2026-09-03T06:47:34.681Z"
     },
     "FAM0046789": {
       "family_code": "FAM0046789",
@@ -639,5 +654,5 @@
     }
   ],
   "homework": [],
-  "last_updated": "2026-09-03T06:47:22.573Z"
+  "last_updated": "2026-09-03T06:47:34.681Z"
 }
