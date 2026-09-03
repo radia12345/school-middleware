@@ -640,7 +640,7 @@
       "name": "qasim",
       "designation": "Teacher",
       "school_code": "004",
-      "updated_at": "2026-09-03T11:11:25.637Z"
+      "updated_at": "2026-09-03T11:22:25.481Z"
     }
   },
   "announcements": [
@@ -654,5 +654,5 @@
     }
   ],
   "homework": [],
-  "last_updated": "2026-09-03T11:21:42.171Z"
+  "last_updated": "2026-09-03T11:22:25.481Z"
 }
