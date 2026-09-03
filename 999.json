@@ -311,6 +311,15 @@
       "created_at": "2026-08-28 04:46:12"
     }
   ],
-  "homework": [],
+  "homework": [
+    {
+      "id": "HW-1788437046621",
+      "class": "8",
+      "subject": "Math",
+      "description": "Debug test",
+      "uploadedBy": "STA9990000",
+      "uploadedAt": "2026-09-03T12:04:06.621Z"
+    }
+  ],
   "last_updated": "2026-09-03T05:45:53.100Z"
-}
+}\n
