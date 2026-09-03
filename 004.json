@@ -653,6 +653,15 @@
       "created_at": "2026-08-26 10:51:07"
     }
   ],
-  "homework": [],
+  "homework": [
+    {
+      "id": "HW-1788436424418",
+      "class": "5",
+      "subject": "maath",
+      "description": "exercise karni hay 5 to 4",
+      "uploadedBy": "STA0042183",
+      "uploadedAt": "2026-09-03T11:53:44.418Z"
+    }
+  ],
   "last_updated": "2026-09-03T11:27:57.882Z"
-}
+}\n
