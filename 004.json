@@ -645,6 +645,170 @@
       },
       "attendance": [],
       "updated_at": "2026-09-04T16:42:21.035Z"
+    },
+    "FAM0042159": {
+      "family_code": "FAM0042159",
+      "students": [
+        {
+          "id": 10,
+          "admission_no": "STU-2026-2998",
+          "roll_no": null,
+          "name": "ASIM",
+          "class_name": "5th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 1500,
+            "pending_dues": 1500,
+            "status": "Pending",
+            "due_date": "2026-09-25",
+            "records": [
+              {
+                "id": 11,
+                "voucher_id": 9,
+                "student_id": 10,
+                "student_name": "ASIM",
+                "class_name": "5th",
+                "fee_amount": 1500,
+                "discount_amount": 0,
+                "net_amount": 1500,
+                "is_paid": 0,
+                "discount_reason": null,
+                "voucher_no": "V-2026-115561",
+                "month_year": "2026-09",
+                "due_date": "2026-09-25",
+                "voucher_status": "Pending",
+                "total_amount": 1500,
+                "paid_amount": 0,
+                "balance_amount": 1500
+              }
+            ]
+          },
+          "results": [
+            {
+              "id": 14,
+              "exam_id": 4,
+              "student_id": 10,
+              "subject_id": 10,
+              "obtained_marks": 90,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-04 15:19:37",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "ASIM",
+              "subject_name": "english",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 15,
+              "exam_id": 4,
+              "student_id": 10,
+              "subject_id": 9,
+              "obtained_marks": 52,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-04 15:19:37",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "ASIM",
+              "subject_name": "math",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 16,
+              "exam_id": 4,
+              "student_id": 10,
+              "subject_id": 11,
+              "obtained_marks": 52,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-04 15:19:37",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "ASIM",
+              "subject_name": "urdu",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            }
+          ],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 1,
+      "results": [
+        {
+          "student_id": 10,
+          "student_name": "ASIM",
+          "subject_id": 10,
+          "subject_name": "english",
+          "obtained_marks": 90,
+          "total_marks": 100,
+          "percentage": 90,
+          "grade": null,
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
+        },
+        {
+          "student_id": 10,
+          "student_name": "ASIM",
+          "subject_id": 9,
+          "subject_name": "math",
+          "obtained_marks": 52,
+          "total_marks": 100,
+          "percentage": 52,
+          "grade": null,
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
+        },
+        {
+          "student_id": 10,
+          "student_name": "ASIM",
+          "subject_id": 11,
+          "subject_name": "urdu",
+          "obtained_marks": 52,
+          "total_marks": 100,
+          "percentage": 52,
+          "grade": null,
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": null
+        }
+      ],
+      "fee": {
+        "total_vouchers": 1,
+        "total_paid": 0,
+        "pending_balance": 1500,
+        "late_fee_fine": 500,
+        "records": [
+          {
+            "voucher_no": "V-2026-115561",
+            "month_year": "2026-09",
+            "due_date": "2026-09-25",
+            "total_amount": 1500,
+            "paid_amount": 0,
+            "balance_amount": 1500,
+            "status": "Pending"
+          }
+        ]
+      },
+      "attendance": [],
+      "updated_at": "2026-09-04T16:42:32.290Z"
     }
   },
   "teachers": {
@@ -679,5 +843,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-04T16:42:21.036Z"
+  "last_updated": "2026-09-04T16:42:32.291Z"
 }
