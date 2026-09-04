@@ -809,6 +809,42 @@
       },
       "attendance": [],
       "updated_at": "2026-09-04T16:42:32.290Z"
+    },
+    "FAM0045545": {
+      "family_code": "FAM0045545",
+      "students": [
+        {
+          "id": 12,
+          "admission_no": "STU-2026-5679",
+          "roll_no": null,
+          "name": "waseem",
+          "class_name": "9th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Paid",
+            "due_date": null,
+            "records": []
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 1,
+      "results": [],
+      "fee": {
+        "total_vouchers": 0,
+        "total_paid": 0,
+        "pending_balance": 0,
+        "late_fee_fine": 500,
+        "records": []
+      },
+      "attendance": [],
+      "updated_at": "2026-09-04T16:42:38.926Z"
     }
   },
   "teachers": {
@@ -843,5 +879,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-04T16:42:32.291Z"
+  "last_updated": "2026-09-04T16:42:38.927Z"
 }
