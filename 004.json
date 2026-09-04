@@ -565,7 +565,7 @@
         ]
       },
       "attendance": [],
-      "updated_at": "2026-09-04T11:23:59.388Z"
+      "updated_at": "2026-09-04T11:24:56.599Z"
     },
     "FAM0046597": {
       "family_code": "FAM0046597",
@@ -666,5 +666,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-04T11:24:52.608Z"
+  "last_updated": "2026-09-04T11:24:56.599Z"
 }
