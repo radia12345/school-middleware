@@ -653,6 +653,18 @@
       "created_at": "2026-08-26 10:51:07"
     }
   ],
-  "homework": [],
+  "homework": [
+    {
+      "id": "1788511516580",
+      "teacher_id": "STA0042183",
+      "teacher_name": "STA0042183",
+      "school_code": "004",
+      "class_name": "Class 2",
+      "subject": "math ",
+      "title": "exercise complete read karni hay ",
+      "description": "bbbbb",
+      "is_monthly": false
+    }
+  ],
   "last_updated": "2026-09-04T08:45:05.537Z"
 }
