@@ -235,7 +235,7 @@
         ]
       },
       "attendance": [],
-      "updated_at": "2026-09-04T10:54:45.558Z"
+      "updated_at": "2026-09-04T10:55:48.536Z"
     },
     "FAM0040000": {
       "family_code": "FAM0040000",
@@ -499,7 +499,7 @@
         ]
       },
       "attendance": [],
-      "updated_at": "2026-09-04T10:54:51.172Z"
+      "updated_at": "2026-09-04T10:55:51.636Z"
     },
     "FAM0046789": {
       "family_code": "FAM0046789",
@@ -640,7 +640,7 @@
       "name": "qasim",
       "designation": "Teacher",
       "school_code": "004",
-      "updated_at": "2026-09-04T10:55:49.651Z"
+      "updated_at": "2026-09-04T10:12:46.822Z"
     }
   },
   "announcements": [
@@ -666,5 +666,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-04T10:55:49.651Z"
+  "last_updated": "2026-09-04T10:55:51.636Z"
 }
