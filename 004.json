@@ -631,7 +631,7 @@
         ]
       },
       "attendance": [],
-      "updated_at": "2026-09-04T09:55:24.909Z"
+      "updated_at": "2026-09-04T09:56:00.637Z"
     }
   },
   "teachers": {
@@ -666,5 +666,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-04T09:55:56.715Z"
+  "last_updated": "2026-09-04T09:56:00.637Z"
 }
