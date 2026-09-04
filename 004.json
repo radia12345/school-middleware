@@ -497,6 +497,12 @@
           "academic_year": null
         }
       ],
+      "result_summary": {
+        "total_results": 5,
+        "average_percentage": 70.8,
+        "passed": 5,
+        "failed": 0
+      },
       "fee": {
         "total_vouchers": 2,
         "total_paid": 1800,
@@ -523,8 +529,27 @@
           }
         ]
       },
-      "attendance": [],
-      "updated_at": "2026-09-04T16:44:03.652Z"
+      "announcements": [
+        {
+          "id": 1,
+          "title": "Welcome to ZST School ERP",
+          "body": "You can now send announcements to all parents from this system.",
+          "type": "Announcement",
+          "audience": "all",
+          "class_id": null,
+          "family_id": null,
+          "sent_by": "System",
+          "sent_at": "2026-08-26 10:51:07",
+          "is_synced": 0,
+          "status": "sent",
+          "error_message": null,
+          "created_at": "2026-08-26 10:51:07",
+          "updated_at": "2026-08-26 10:51:07",
+          "synced_at": null,
+          "student_id": null
+        }
+      ],
+      "updated_at": "2026-09-04T16:45:18.255Z"
     },
     "FAM0046789": {
       "family_code": "FAM0046789",
@@ -904,5 +929,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-04T16:45:24.912Z"
+  "last_updated": "2026-09-04T16:45:28.398Z"
 }
