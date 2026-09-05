@@ -432,25 +432,12 @@
           "exam_name": "Monthly",
           "exam_type": "Monthly",
           "academic_year": "2026"
-        },
-        {
-          "student_id": 9,
-          "student_name": "Usama",
-          "subject_id": 12,
-          "subject_name": "MATH",
-          "obtained_marks": 90,
-          "total_marks": 100,
-          "percentage": 90,
-          "grade": null,
-          "exam_name": "Monthly",
-          "exam_type": "Monthly",
-          "academic_year": "2026"
         }
       ],
       "result_summary": {
-        "total_results": 3,
-        "average_percentage": 92.33,
-        "passed": 3,
+        "total_results": 2,
+        "average_percentage": 93.5,
+        "passed": 2,
         "failed": 0
       },
       "fee": {
@@ -471,7 +458,7 @@
         ]
       },
       "announcements": [],
-      "updated_at": "2026-09-05T16:08:32.510Z"
+      "updated_at": "2026-09-05T16:08:32.410Z"
     },
     "FAM0042159": {
       "family_code": "FAM0042159",
@@ -756,5 +743,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-05T16:08:34.763Z"
+  "last_updated": "2026-09-05T16:08:35.639Z"
 }
