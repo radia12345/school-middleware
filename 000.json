@@ -288,7 +288,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-05T10:35:01.777Z"
+      "updated_at": "2026-09-05T10:35:11.803Z"
     }
   },
   "teachers": {
@@ -302,5 +302,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-05T10:34:52.988Z"
+  "last_updated": "2026-09-05T10:34:54.133Z"
 }
