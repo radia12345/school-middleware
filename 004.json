@@ -769,7 +769,7 @@
       "name": "qasim",
       "designation": "Teacher",
       "school_code": "004",
-      "updated_at": "2026-09-05T16:08:07.676Z"
+      "updated_at": "2026-09-05T16:08:40.218Z"
     }
   },
   "announcements": [
@@ -795,5 +795,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-05T16:08:40.252Z"
+  "last_updated": "2026-09-05T16:08:42.073Z"
 }
