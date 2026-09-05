@@ -40,8 +40,8 @@
               "student_id": 3,
               "month": "2026-09",
               "total_days": 1,
-              "present_days": 1,
-              "percentage": 100
+              "present_days": 0,
+              "percentage": 0
             }
           ]
         },
@@ -141,7 +141,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-05T07:17:09.136Z"
+      "updated_at": "2026-09-05T07:17:23.366Z"
     },
     "FAM0005959": {
       "family_code": "FAM0005959",
@@ -302,5 +302,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-05T07:17:01.590Z"
+  "last_updated": "2026-09-05T07:17:04.753Z"
 }
