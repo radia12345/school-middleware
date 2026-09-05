@@ -458,12 +458,38 @@
           "exam_name": "Monthly",
           "exam_type": "Monthly",
           "academic_year": "2026"
+        },
+        {
+          "student_id": 9,
+          "student_name": "Usama",
+          "subject_id": 17,
+          "subject_name": "SCIENCE",
+          "obtained_marks": 90,
+          "total_marks": 100,
+          "percentage": 90,
+          "grade": null,
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": "2026"
+        },
+        {
+          "student_id": 9,
+          "student_name": "Usama",
+          "subject_id": 13,
+          "subject_name": "URDU",
+          "obtained_marks": 85,
+          "total_marks": 100,
+          "percentage": 85,
+          "grade": null,
+          "exam_name": "Monthly",
+          "exam_type": "Monthly",
+          "academic_year": "2026"
         }
       ],
       "result_summary": {
-        "total_results": 4,
-        "average_percentage": 90.75,
-        "passed": 4,
+        "total_results": 6,
+        "average_percentage": 89.67,
+        "passed": 6,
         "failed": 0
       },
       "fee": {
@@ -484,7 +510,7 @@
         ]
       },
       "announcements": [],
-      "updated_at": "2026-09-05T16:08:32.618Z"
+      "updated_at": "2026-09-05T16:08:32.776Z"
     },
     "FAM0042159": {
       "family_code": "FAM0042159",
@@ -769,5 +795,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-05T16:08:39.211Z"
+  "last_updated": "2026-09-05T16:08:40.252Z"
 }
