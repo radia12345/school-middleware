@@ -927,7 +927,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-05T16:19:22.580Z"
+      "updated_at": "2026-09-05T16:19:49.410Z"
     }
   },
   "teachers": {
@@ -962,5 +962,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-05T16:19:47.320Z"
+  "last_updated": "2026-09-05T16:19:52.214Z"
 }
