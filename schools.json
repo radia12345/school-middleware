@@ -15,6 +15,10 @@
     "school_code": "999",
     "status": true
   },
+  "000": {
+    "school_code": "000",
+    "status": true
+  },
   "004": {
     "school_code": "004",
     "status": true
