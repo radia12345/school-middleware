@@ -389,18 +389,166 @@
           "admission_no": "STU-2026-8591",
           "roll_no": null,
           "name": "Usama",
-          "class_name": null,
+          "class_name": "2nd",
           "section_name": null,
           "status": "Active",
           "fee": {
-            "records": [],
-            "total_fee": 0,
-            "pending_dues": 0,
+            "total_fee": 1000,
+            "pending_dues": 1000,
             "status": "Pending",
-            "due_date": null
+            "due_date": "2026-09-26",
+            "records": [
+              {
+                "id": 10,
+                "voucher_id": 8,
+                "student_id": 9,
+                "student_name": "Usama",
+                "class_name": "2nd",
+                "fee_amount": 1000,
+                "discount_amount": 0,
+                "net_amount": 1000,
+                "is_paid": 0,
+                "discount_reason": null,
+                "voucher_no": "V-2026-313850",
+                "month_year": "2026-09",
+                "due_date": "2026-09-26",
+                "voucher_status": "Pending",
+                "total_amount": 1000,
+                "paid_amount": 0,
+                "balance_amount": 1000
+              }
+            ]
           },
-          "results": [],
-          "test_series": [],
+          "results": [
+            {
+              "id": 17,
+              "exam_id": 5,
+              "student_id": 9,
+              "subject_id": 14,
+              "obtained_marks": 91,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-05 16:08:32",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Usama",
+              "subject_name": "ENGLISH",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 18,
+              "exam_id": 5,
+              "student_id": 9,
+              "subject_id": 16,
+              "obtained_marks": 96,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-05 16:08:32",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Usama",
+              "subject_name": "ISLAMIYAT",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 19,
+              "exam_id": 5,
+              "student_id": 9,
+              "subject_id": 12,
+              "obtained_marks": 90,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-05 16:08:32",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Usama",
+              "subject_name": "MATH",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 20,
+              "exam_id": 5,
+              "student_id": 9,
+              "subject_id": 15,
+              "obtained_marks": 86,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-05 16:08:32",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Usama",
+              "subject_name": "PAK STUDY",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 21,
+              "exam_id": 5,
+              "student_id": 9,
+              "subject_id": 17,
+              "obtained_marks": 90,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-05 16:08:32",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Usama",
+              "subject_name": "SCIENCE",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            },
+            {
+              "id": 22,
+              "exam_id": 5,
+              "student_id": 9,
+              "subject_id": 13,
+              "obtained_marks": 85,
+              "total_marks": 100,
+              "grade": null,
+              "remarks": null,
+              "entered_by": 1,
+              "entered_at": "2026-09-05 16:08:32",
+              "is_finalized": 0,
+              "synced_at": null,
+              "is_synced": 0,
+              "student_name": "Usama",
+              "subject_name": "URDU",
+              "exam_name": "Monthly",
+              "exam_type": "Monthly"
+            }
+          ],
+          "test_series": [
+            {
+              "id": "series-new-1788534765621-0.8785503272959099",
+              "date": "2026-02-02",
+              "subject": "rrwr",
+              "total_marks": 100,
+              "obtained_marks": 54,
+              "percentage": 54,
+              "grade": "C+",
+              "series_id": 1,
+              "academic_year": "2026",
+              "class_id": 5
+            }
+          ],
           "books": [],
           "attendance_monthly": []
         }
@@ -418,7 +566,7 @@
           "grade": null,
           "exam_name": "Monthly",
           "exam_type": "Monthly",
-          "academic_year": "2026"
+          "academic_year": null
         },
         {
           "student_id": 9,
@@ -431,7 +579,7 @@
           "grade": null,
           "exam_name": "Monthly",
           "exam_type": "Monthly",
-          "academic_year": "2026"
+          "academic_year": null
         },
         {
           "student_id": 9,
@@ -444,7 +592,7 @@
           "grade": null,
           "exam_name": "Monthly",
           "exam_type": "Monthly",
-          "academic_year": "2026"
+          "academic_year": null
         },
         {
           "student_id": 9,
@@ -457,7 +605,7 @@
           "grade": null,
           "exam_name": "Monthly",
           "exam_type": "Monthly",
-          "academic_year": "2026"
+          "academic_year": null
         },
         {
           "student_id": 9,
@@ -470,7 +618,7 @@
           "grade": null,
           "exam_name": "Monthly",
           "exam_type": "Monthly",
-          "academic_year": "2026"
+          "academic_year": null
         },
         {
           "student_id": 9,
@@ -483,7 +631,7 @@
           "grade": null,
           "exam_name": "Monthly",
           "exam_type": "Monthly",
-          "academic_year": "2026"
+          "academic_year": null
         }
       ],
       "result_summary": {
@@ -496,7 +644,7 @@
         "total_vouchers": 1,
         "total_paid": 0,
         "pending_balance": 1000,
-        "late_fee_fine": 0,
+        "late_fee_fine": 500,
         "records": [
           {
             "voucher_no": "V-2026-313850",
@@ -509,8 +657,27 @@
           }
         ]
       },
-      "announcements": [],
-      "updated_at": "2026-09-05T16:08:32.776Z"
+      "announcements": [
+        {
+          "id": 1,
+          "title": "Welcome to ZST School ERP",
+          "body": "You can now send announcements to all parents from this system.",
+          "type": "Announcement",
+          "audience": "all",
+          "class_id": null,
+          "family_id": null,
+          "sent_by": "System",
+          "sent_at": "2026-08-26 10:51:07",
+          "is_synced": 0,
+          "status": "sent",
+          "error_message": null,
+          "created_at": "2026-08-26 10:51:07",
+          "updated_at": "2026-08-26 10:51:07",
+          "synced_at": null,
+          "student_id": null
+        }
+      ],
+      "updated_at": "2026-09-05T16:08:48.006Z"
     },
     "FAM0042159": {
       "family_code": "FAM0042159",
@@ -795,5 +962,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-05T16:08:46.689Z"
+  "last_updated": "2026-09-05T16:08:50.017Z"
 }
