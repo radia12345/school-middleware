@@ -419,25 +419,12 @@
           "exam_name": "Monthly",
           "exam_type": "Monthly",
           "academic_year": "2026"
-        },
-        {
-          "student_id": 9,
-          "student_name": "Usama",
-          "subject_id": 16,
-          "subject_name": "ISLAMIYAT",
-          "obtained_marks": 96,
-          "total_marks": 100,
-          "percentage": 96,
-          "grade": null,
-          "exam_name": "Monthly",
-          "exam_type": "Monthly",
-          "academic_year": "2026"
         }
       ],
       "result_summary": {
-        "total_results": 2,
-        "average_percentage": 93.5,
-        "passed": 2,
+        "total_results": 1,
+        "average_percentage": 91,
+        "passed": 1,
         "failed": 0
       },
       "fee": {
@@ -458,7 +445,7 @@
         ]
       },
       "announcements": [],
-      "updated_at": "2026-09-05T16:08:32.410Z"
+      "updated_at": "2026-09-05T16:08:32.285Z"
     },
     "FAM0042159": {
       "family_code": "FAM0042159",
@@ -743,5 +730,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-05T16:08:35.639Z"
+  "last_updated": "2026-09-05T16:08:36.526Z"
 }
