@@ -1,0 +1,130 @@
+{
+  "school_code": "000",
+  "families": {
+    "FAM0004771": {
+      "family_code": "FAM0004771",
+      "students": [
+        {
+          "id": 3,
+          "admission_no": "STU-2026-7575",
+          "roll_no": null,
+          "name": "ALI SHER ",
+          "class_name": "10th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Paid",
+            "due_date": null,
+            "records": []
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        },
+        {
+          "id": 4,
+          "admission_no": "STU-2026-3883",
+          "roll_no": null,
+          "name": "ALI ANSIR ",
+          "class_name": "9th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Paid",
+            "due_date": null,
+            "records": []
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        },
+        {
+          "id": 5,
+          "admission_no": "STU-2026-1852",
+          "roll_no": null,
+          "name": "SHAKEELA BIBI",
+          "class_name": "7th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Paid",
+            "due_date": null,
+            "records": []
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        },
+        {
+          "id": 6,
+          "admission_no": "STU-2026-7553",
+          "roll_no": null,
+          "name": "ROHAIL BANO ",
+          "class_name": "4th",
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Paid",
+            "due_date": null,
+            "records": []
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 4,
+      "results": [],
+      "result_summary": {
+        "total_results": 0,
+        "average_percentage": 0,
+        "passed": 0,
+        "failed": 0
+      },
+      "fee": {
+        "total_vouchers": 0,
+        "total_paid": 0,
+        "pending_balance": 0,
+        "late_fee_fine": 0,
+        "records": []
+      },
+      "announcements": [
+        {
+          "id": 1,
+          "title": "Welcome to ZST School ERP",
+          "body": "You can now send announcements to all parents from this system.",
+          "type": "Announcement",
+          "audience": "all",
+          "class_id": null,
+          "family_id": null,
+          "sent_by": "System",
+          "sent_at": "2026-08-30 13:38:38",
+          "is_synced": 0,
+          "status": "sent",
+          "error_message": null,
+          "created_at": "2026-08-30 13:38:38",
+          "updated_at": "2026-08-30 13:38:38",
+          "synced_at": null,
+          "student_id": null
+        }
+      ],
+      "updated_at": "2026-09-05T06:25:59.236Z"
+    }
+  },
+  "teachers": {},
+  "announcements": [],
+  "homework": [],
+  "last_updated": "2026-09-05T06:25:52.197Z"
+}
