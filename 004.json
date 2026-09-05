@@ -288,7 +288,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-05T16:07:37.660Z"
+      "updated_at": "2026-09-05T16:08:07.677Z"
     },
     "FAM0046789": {
       "family_code": "FAM0046789",
@@ -768,5 +768,5 @@
       "is_monthly": false
     }
   ],
-  "last_updated": "2026-09-05T16:08:09.912Z"
+  "last_updated": "2026-09-05T16:08:10.762Z"
 }
