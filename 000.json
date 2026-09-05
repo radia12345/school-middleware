@@ -20,7 +20,20 @@
             "records": []
           },
           "results": [],
-          "test_series": [],
+          "test_series": [
+            {
+              "id": "series-new-1788590259871-0.2839649999465388",
+              "date": "2026-09-05",
+              "subject": "ENGLISH",
+              "total_marks": 100,
+              "obtained_marks": 85,
+              "percentage": 85,
+              "grade": "A",
+              "series_id": 1,
+              "academic_year": "2026",
+              "class_id": 13
+            }
+          ],
           "books": [],
           "attendance_monthly": []
         },
@@ -120,7 +133,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-05T06:38:15.433Z"
+      "updated_at": "2026-09-05T06:38:28.911Z"
     },
     "FAM0005959": {
       "family_code": "FAM0005959",
@@ -281,5 +294,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-05T06:38:08.010Z"
+  "last_updated": "2026-09-05T06:38:10.089Z"
 }
