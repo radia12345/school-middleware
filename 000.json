@@ -163,7 +163,15 @@
           "results": [],
           "test_series": [],
           "books": [],
-          "attendance_monthly": []
+          "attendance_monthly": [
+            {
+              "student_id": 1,
+              "month": "2026-09",
+              "total_days": 1,
+              "present_days": 1,
+              "percentage": 100
+            }
+          ]
         },
         {
           "id": 2,
@@ -259,7 +267,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-05T06:32:52.528Z"
+      "updated_at": "2026-09-05T06:33:59.878Z"
     }
   },
   "teachers": {
@@ -273,5 +281,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-05T06:33:41.104Z"
+  "last_updated": "2026-09-05T06:33:42.157Z"
 }
