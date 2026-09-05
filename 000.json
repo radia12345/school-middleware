@@ -35,7 +35,15 @@
             }
           ],
           "books": [],
-          "attendance_monthly": []
+          "attendance_monthly": [
+            {
+              "student_id": 3,
+              "month": "2026-09",
+              "total_days": 1,
+              "present_days": 1,
+              "percentage": 100
+            }
+          ]
         },
         {
           "id": 4,
@@ -133,7 +141,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-05T07:16:36.469Z"
+      "updated_at": "2026-09-05T07:16:54.487Z"
     },
     "FAM0005959": {
       "family_code": "FAM0005959",
@@ -294,5 +302,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-05T07:16:24.498Z"
+  "last_updated": "2026-09-05T07:16:36.073Z"
 }
