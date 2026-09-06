@@ -561,7 +561,7 @@
       "name": "MUHAMMAD USMAN",
       "designation": "Voice Principal",
       "school_code": "000",
-      "updated_at": "2026-09-06T08:39:00.943Z"
+      "updated_at": "2026-09-06T08:39:27.945Z"
     },
     "STA0005959": {
       "teacher_id": "STA0005959",
@@ -573,5 +573,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-06T08:39:05.808Z"
+  "last_updated": "2026-09-06T08:39:07.229Z"
 }
