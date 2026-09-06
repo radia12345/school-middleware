@@ -288,7 +288,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-06T09:36:50.828Z"
+      "updated_at": "2026-09-06T09:37:06.595Z"
     },
     "FAM0009185": {
       "family_code": "FAM0009185",
@@ -573,5 +573,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-06T09:36:43.623Z"
+  "last_updated": "2026-09-06T09:36:45.311Z"
 }
