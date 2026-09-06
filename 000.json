@@ -289,6 +289,27 @@
         }
       ],
       "updated_at": "2026-09-06T01:39:24.686Z"
+    },
+    "FAM0009185": {
+      "family_code": "FAM0009185",
+      "students": [],
+      "total_students": 0,
+      "results": [],
+      "result_summary": {
+        "total_results": 0,
+        "average_percentage": 0,
+        "passed": 0,
+        "failed": 0
+      },
+      "fee": {
+        "total_vouchers": 0,
+        "total_paid": 0,
+        "pending_balance": 0,
+        "late_fee_fine": 0,
+        "records": []
+      },
+      "announcements": [],
+      "updated_at": "2026-09-06T01:39:28.971Z"
     }
   },
   "teachers": {
@@ -309,5 +330,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-06T01:39:07.525Z"
+  "last_updated": "2026-09-06T01:39:08.531Z"
 }
