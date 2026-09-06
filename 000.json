@@ -298,9 +298,16 @@
       "designation": "voice principal",
       "school_code": "000",
       "updated_at": "2026-09-06T01:07:51.809Z"
+    },
+    "STA0005959": {
+      "teacher_id": "STA0005959",
+      "name": "MUHAMMAD MUNEER",
+      "designation": "chairman",
+      "school_code": "000",
+      "updated_at": "2026-09-06T01:07:55.122Z"
     }
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-06T01:07:31.508Z"
+  "last_updated": "2026-09-06T01:07:34.954Z"
 }
