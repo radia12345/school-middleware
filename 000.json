@@ -151,96 +151,40 @@
           "admission_no": "STU-2026-4118",
           "roll_no": null,
           "name": "MAROOSH FATIMA",
-          "class_name": "6th",
+          "class_name": null,
           "section_name": null,
           "status": "Active",
           "fee": {
-            "total_fee": 1100,
-            "pending_dues": 1100,
+            "records": [],
+            "total_fee": 0,
+            "pending_dues": 0,
             "status": "Pending",
-            "due_date": "2026-08-25",
-            "records": [
-              {
-                "id": 2,
-                "voucher_id": 1,
-                "student_id": 1,
-                "student_name": "MAROOSH FATIMA",
-                "class_name": "6th",
-                "fee_amount": 1100,
-                "discount_amount": 0,
-                "discount_reason": null,
-                "net_amount": 1100,
-                "is_paid": 0,
-                "voucher_no": "V-2026-901156",
-                "month_year": "2026-09",
-                "due_date": "2026-08-25",
-                "voucher_status": "Paid",
-                "total_amount": 1900,
-                "paid_amount": 1900,
-                "balance_amount": 0
-              }
-            ]
+            "due_date": null
           },
           "results": [],
           "test_series": [],
           "books": [],
-          "attendance_monthly": [
-            {
-              "student_id": 1,
-              "month": "2026-09",
-              "total_days": 1,
-              "present_days": 1,
-              "percentage": 100
-            }
-          ]
+          "attendance_monthly": []
         },
         {
           "id": 2,
           "admission_no": "STU-2026-2389",
           "roll_no": null,
           "name": "AYESHA MUNEER",
-          "class_name": "KG",
+          "class_name": null,
           "section_name": null,
           "status": "Active",
           "fee": {
-            "total_fee": 800,
-            "pending_dues": 800,
+            "records": [],
+            "total_fee": 0,
+            "pending_dues": 0,
             "status": "Pending",
-            "due_date": "2026-08-25",
-            "records": [
-              {
-                "id": 1,
-                "voucher_id": 1,
-                "student_id": 2,
-                "student_name": "AYESHA MUNEER",
-                "class_name": "KG",
-                "fee_amount": 800,
-                "discount_amount": 0,
-                "discount_reason": null,
-                "net_amount": 800,
-                "is_paid": 0,
-                "voucher_no": "V-2026-901156",
-                "month_year": "2026-09",
-                "due_date": "2026-08-25",
-                "voucher_status": "Paid",
-                "total_amount": 1900,
-                "paid_amount": 1900,
-                "balance_amount": 0
-              }
-            ]
+            "due_date": null
           },
           "results": [],
           "test_series": [],
           "books": [],
-          "attendance_monthly": [
-            {
-              "student_id": 2,
-              "month": "2026-08",
-              "total_days": 1,
-              "present_days": 1,
-              "percentage": 100
-            }
-          ]
+          "attendance_monthly": []
         }
       ],
       "total_students": 2,
@@ -252,43 +196,14 @@
         "failed": 0
       },
       "fee": {
-        "total_vouchers": 1,
-        "total_paid": 1900,
+        "total_vouchers": 0,
+        "total_paid": 0,
         "pending_balance": 0,
-        "late_fee_fine": 500,
-        "records": [
-          {
-            "voucher_no": "V-2026-901156",
-            "month_year": "2026-09",
-            "due_date": "2026-08-25",
-            "total_amount": 1900,
-            "paid_amount": 1900,
-            "balance_amount": 0,
-            "status": "Paid"
-          }
-        ]
+        "late_fee_fine": 0,
+        "records": []
       },
-      "announcements": [
-        {
-          "id": 1,
-          "title": "Welcome to ZST School ERP",
-          "body": "You can now send announcements to all parents from this system.",
-          "type": "Announcement",
-          "audience": "all",
-          "class_id": null,
-          "family_id": null,
-          "sent_by": "System",
-          "sent_at": "2026-08-30 13:38:38",
-          "is_synced": 0,
-          "status": "sent",
-          "error_message": null,
-          "created_at": "2026-08-30 13:38:38",
-          "updated_at": "2026-08-30 13:38:38",
-          "synced_at": null,
-          "student_id": null
-        }
-      ],
-      "updated_at": "2026-09-06T01:34:20.391Z"
+      "announcements": [],
+      "updated_at": "2026-09-06T01:34:23.237Z"
     }
   },
   "teachers": {
@@ -309,5 +224,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-06T01:34:01.207Z"
+  "last_updated": "2026-09-06T01:34:02.633Z"
 }
