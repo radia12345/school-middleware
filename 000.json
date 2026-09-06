@@ -292,8 +292,29 @@
     },
     "FAM0009185": {
       "family_code": "FAM0009185",
-      "students": [],
-      "total_students": 0,
+      "students": [
+        {
+          "id": 7,
+          "admission_no": "STU-2026-2391",
+          "roll_no": null,
+          "name": "MUHAMMAD AHMAD RAZA",
+          "class_name": null,
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "records": [],
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Pending",
+            "due_date": null
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 1,
       "results": [],
       "result_summary": {
         "total_results": 0,
@@ -308,27 +329,8 @@
         "late_fee_fine": 0,
         "records": []
       },
-      "announcements": [
-        {
-          "id": 1,
-          "title": "Welcome to ZST School ERP",
-          "body": "You can now send announcements to all parents from this system.",
-          "type": "Announcement",
-          "audience": "all",
-          "class_id": null,
-          "family_id": null,
-          "sent_by": "System",
-          "sent_at": "2026-08-30 13:38:38",
-          "is_synced": 0,
-          "status": "sent",
-          "error_message": null,
-          "created_at": "2026-08-30 13:38:38",
-          "updated_at": "2026-08-30 13:38:38",
-          "synced_at": null,
-          "student_id": null
-        }
-      ],
-      "updated_at": "2026-09-06T01:44:24.184Z"
+      "announcements": [],
+      "updated_at": "2026-09-06T01:44:27.825Z"
     }
   },
   "teachers": {
@@ -349,5 +351,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-06T01:44:06.481Z"
+  "last_updated": "2026-09-06T01:44:07.403Z"
 }
