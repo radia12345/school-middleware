@@ -472,6 +472,48 @@
         }
       ],
       "updated_at": "2026-09-06T03:55:12.074Z"
+    },
+    "FAM0000361": {
+      "family_code": "FAM0000361",
+      "students": [
+        {
+          "id": 10,
+          "admission_no": "STU-2026-6926",
+          "roll_no": null,
+          "name": "MUHAMMAD SAMI ULLAH",
+          "class_name": null,
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "records": [],
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Pending",
+            "due_date": null
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 1,
+      "results": [],
+      "result_summary": {
+        "total_results": 0,
+        "average_percentage": 0,
+        "passed": 0,
+        "failed": 0
+      },
+      "fee": {
+        "total_vouchers": 0,
+        "total_paid": 0,
+        "pending_balance": 0,
+        "late_fee_fine": 0,
+        "records": []
+      },
+      "announcements": [],
+      "updated_at": "2026-09-06T03:55:46.953Z"
     }
   },
   "teachers": {
@@ -492,5 +534,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-06T03:55:04.006Z"
+  "last_updated": "2026-09-06T03:55:26.438Z"
 }
