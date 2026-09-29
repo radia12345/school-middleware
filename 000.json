@@ -255,7 +255,7 @@
         "total_vouchers": 1,
         "total_paid": 1900,
         "pending_balance": 0,
-        "late_fee_fine": 0,
+        "late_fee_fine": 500,
         "records": [
           {
             "voucher_no": "V-2026-901156",
@@ -288,7 +288,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-29T01:52:48.413Z"
+      "updated_at": "2026-09-29T01:53:18.424Z"
     },
     "FAM0009185": {
       "family_code": "FAM0009185",
@@ -755,5 +755,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-29T01:51:49.010Z"
+  "last_updated": "2026-09-29T01:51:50.054Z"
 }
