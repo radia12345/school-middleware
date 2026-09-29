@@ -326,7 +326,7 @@
         "total_vouchers": 0,
         "total_paid": 0,
         "pending_balance": 0,
-        "late_fee_fine": 0,
+        "late_fee_fine": 500,
         "records": []
       },
       "announcements": [
@@ -349,7 +349,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-29T01:53:56.382Z"
+      "updated_at": "2026-09-29T01:54:39.818Z"
     },
     "FAM0008047": {
       "family_code": "FAM0008047",
@@ -755,5 +755,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-09-29T01:53:06.446Z"
+  "last_updated": "2026-09-29T01:53:09.964Z"
 }
