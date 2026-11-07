@@ -759,11 +759,31 @@
           "section_name": "ONE A",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 800,
+            "pending_dues": 800,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 14,
+                "voucher_id": 8,
+                "student_id": 10,
+                "student_name": "MUHAMMAD SAMI ULLAH",
+                "class_name": "1st",
+                "fee_amount": 800,
+                "discount_amount": 0,
+                "discount_reason": null,
+                "net_amount": 800,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480318-007",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 1600,
+                "paid_amount": 0,
+                "balance_amount": 1600
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -779,11 +799,31 @@
           "section_name": "NURSERY B",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 800,
+            "pending_dues": 800,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 15,
+                "voucher_id": 8,
+                "student_id": 11,
+                "student_name": "HARM FATIMA",
+                "class_name": "Playgroup",
+                "fee_amount": 800,
+                "discount_amount": 0,
+                "discount_reason": null,
+                "net_amount": 800,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480318-007",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 1600,
+                "paid_amount": 0,
+                "balance_amount": 1600
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -800,11 +840,21 @@
         "failed": 0
       },
       "fee": {
-        "total_vouchers": 0,
+        "total_vouchers": 1,
         "total_paid": 0,
-        "pending_balance": 0,
+        "pending_balance": 1600,
         "late_fee_fine": 500,
-        "records": []
+        "records": [
+          {
+            "voucher_no": "V-2026-480318-007",
+            "month_year": "2026-11",
+            "due_date": "2026-11-25",
+            "total_amount": 1600,
+            "paid_amount": 0,
+            "balance_amount": 1600,
+            "status": "Pending"
+          }
+        ]
       },
       "announcements": [
         {
@@ -826,7 +876,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-29T01:58:47.132Z"
+      "updated_at": "2026-11-07T15:15:07.218Z"
     },
     "FAM0000125": {
       "family_code": "FAM0000125",
@@ -1029,5 +1079,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-11-07T15:14:55.094Z"
+  "last_updated": "2026-11-07T15:14:58.689Z"
 }
