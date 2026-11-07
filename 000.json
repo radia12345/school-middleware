@@ -577,11 +577,31 @@
           "section_name": "NURSERY B",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 800,
+            "pending_dues": 800,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 12,
+                "voucher_id": 6,
+                "student_id": 8,
+                "student_name": "AFSHAL FATIMA",
+                "class_name": "Playgroup",
+                "fee_amount": 800,
+                "discount_amount": 0,
+                "discount_reason": null,
+                "net_amount": 800,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480274-005",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 800,
+                "paid_amount": 0,
+                "balance_amount": 800
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -598,11 +618,21 @@
         "failed": 0
       },
       "fee": {
-        "total_vouchers": 0,
+        "total_vouchers": 1,
         "total_paid": 0,
-        "pending_balance": 0,
+        "pending_balance": 800,
         "late_fee_fine": 500,
-        "records": []
+        "records": [
+          {
+            "voucher_no": "V-2026-480274-005",
+            "month_year": "2026-11",
+            "due_date": "2026-11-25",
+            "total_amount": 800,
+            "paid_amount": 0,
+            "balance_amount": 800,
+            "status": "Pending"
+          }
+        ]
       },
       "announcements": [
         {
@@ -624,7 +654,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-29T01:59:32.772Z"
+      "updated_at": "2026-11-07T15:14:59.085Z"
     },
     "FAM0006365": {
       "family_code": "FAM0006365",
@@ -969,5 +999,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-11-07T15:14:46.705Z"
+  "last_updated": "2026-11-07T15:14:51.303Z"
 }
