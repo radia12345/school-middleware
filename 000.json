@@ -981,11 +981,31 @@
           "section_name": "FIRST YEAR GIRLS",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 3800,
+            "pending_dues": 3800,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 17,
+                "voucher_id": 10,
+                "student_id": 13,
+                "student_name": "FARASAT ANJUM",
+                "class_name": "11th",
+                "fee_amount": 4000,
+                "discount_amount": 200,
+                "discount_reason": null,
+                "net_amount": 3800,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480367-009",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 7700,
+                "paid_amount": 0,
+                "balance_amount": 7315
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -1001,11 +1021,31 @@
           "section_name": "NINTH GIRLS",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 1710,
+            "pending_dues": 1710,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 18,
+                "voucher_id": 10,
+                "student_id": 14,
+                "student_name": "FARHAT ANJUM",
+                "class_name": "9th",
+                "fee_amount": 1800,
+                "discount_amount": 90,
+                "discount_reason": null,
+                "net_amount": 1710,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480367-009",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 7700,
+                "paid_amount": 0,
+                "balance_amount": 7315
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -1021,11 +1061,31 @@
           "section_name": "SEVEN GIRLS",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 1045,
+            "pending_dues": 1045,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 19,
+                "voucher_id": 10,
+                "student_id": 15,
+                "student_name": "NISAR FATIMA",
+                "class_name": "7th",
+                "fee_amount": 1100,
+                "discount_amount": 55,
+                "discount_reason": null,
+                "net_amount": 1045,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480367-009",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 7700,
+                "paid_amount": 0,
+                "balance_amount": 7315
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -1041,11 +1101,31 @@
           "section_name": "NURSERY A",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 760,
+            "pending_dues": 760,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 20,
+                "voucher_id": 10,
+                "student_id": 16,
+                "student_name": "IRFA AZAM",
+                "class_name": "Nursery",
+                "fee_amount": 800,
+                "discount_amount": 40,
+                "discount_reason": null,
+                "net_amount": 760,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480367-009",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 7700,
+                "paid_amount": 0,
+                "balance_amount": 7315
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -1062,11 +1142,21 @@
         "failed": 0
       },
       "fee": {
-        "total_vouchers": 0,
+        "total_vouchers": 1,
         "total_paid": 0,
-        "pending_balance": 0,
+        "pending_balance": 7315,
         "late_fee_fine": 500,
-        "records": []
+        "records": [
+          {
+            "voucher_no": "V-2026-480367-009",
+            "month_year": "2026-11",
+            "due_date": "2026-11-25",
+            "total_amount": 7700,
+            "paid_amount": 0,
+            "balance_amount": 7315,
+            "status": "Pending"
+          }
+        ]
       },
       "announcements": [
         {
@@ -1088,7 +1178,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-29T01:59:04.554Z"
+      "updated_at": "2026-11-07T15:15:15.876Z"
     }
   },
   "teachers": {
@@ -1109,5 +1199,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-11-07T15:15:03.230Z"
+  "last_updated": "2026-11-07T15:15:07.729Z"
 }
