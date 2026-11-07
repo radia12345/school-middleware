@@ -155,8 +155,8 @@
           "section_name": "SIX GIRLS",
           "status": "Active",
           "fee": {
-            "total_fee": 2200,
-            "pending_dues": 2200,
+            "total_fee": 3300,
+            "pending_dues": 3300,
             "status": "Pending",
             "due_date": "2026-08-25",
             "records": [
@@ -197,6 +197,25 @@
                 "total_amount": 1900,
                 "paid_amount": 0,
                 "balance_amount": 1900
+              },
+              {
+                "id": 5,
+                "voucher_id": 3,
+                "student_id": 1,
+                "student_name": "MAROOSH FATIMA",
+                "class_name": "6th",
+                "fee_amount": 1100,
+                "discount_amount": 0,
+                "discount_reason": null,
+                "net_amount": 1100,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480170-002",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 1900,
+                "paid_amount": 0,
+                "balance_amount": 3800
               }
             ]
           },
@@ -222,8 +241,8 @@
           "section_name": "PREP",
           "status": "Active",
           "fee": {
-            "total_fee": 1600,
-            "pending_dues": 1600,
+            "total_fee": 2400,
+            "pending_dues": 2400,
             "status": "Pending",
             "due_date": "2026-08-25",
             "records": [
@@ -264,6 +283,25 @@
                 "total_amount": 1900,
                 "paid_amount": 0,
                 "balance_amount": 1900
+              },
+              {
+                "id": 6,
+                "voucher_id": 3,
+                "student_id": 2,
+                "student_name": "AYESHA MUNEER",
+                "class_name": "KG",
+                "fee_amount": 800,
+                "discount_amount": 0,
+                "discount_reason": null,
+                "net_amount": 800,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480170-002",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 1900,
+                "paid_amount": 0,
+                "balance_amount": 3800
               }
             ]
           },
@@ -290,9 +328,9 @@
         "failed": 0
       },
       "fee": {
-        "total_vouchers": 2,
+        "total_vouchers": 3,
         "total_paid": 1900,
-        "pending_balance": 1900,
+        "pending_balance": 5700,
         "late_fee_fine": 500,
         "records": [
           {
@@ -311,6 +349,15 @@
             "total_amount": 1900,
             "paid_amount": 0,
             "balance_amount": 1900,
+            "status": "Pending"
+          },
+          {
+            "voucher_no": "V-2026-480170-002",
+            "month_year": "2026-11",
+            "due_date": "2026-11-25",
+            "total_amount": 1900,
+            "paid_amount": 0,
+            "balance_amount": 3800,
             "status": "Pending"
           }
         ]
@@ -335,7 +382,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-29T01:59:18.691Z"
+      "updated_at": "2026-11-07T15:14:45.692Z"
     },
     "FAM0009185": {
       "family_code": "FAM0009185",
@@ -802,5 +849,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-11-07T15:14:37.415Z"
+  "last_updated": "2026-11-07T15:14:38.354Z"
 }
