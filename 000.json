@@ -13,11 +13,31 @@
           "section_name": "TENTH BOYS",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 1710,
+            "pending_dues": 1710,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 7,
+                "voucher_id": 4,
+                "student_id": 3,
+                "student_name": "ALI SHER ",
+                "class_name": "10th",
+                "fee_amount": 1800,
+                "discount_amount": 90,
+                "discount_reason": null,
+                "net_amount": 1710,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480204-003",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 5600,
+                "paid_amount": 0,
+                "balance_amount": 5320
+              }
+            ]
           },
           "results": [],
           "test_series": [
@@ -54,11 +74,31 @@
           "section_name": "NINTH BOYS",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 1710,
+            "pending_dues": 1710,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 8,
+                "voucher_id": 4,
+                "student_id": 4,
+                "student_name": "ALI ANSIR ",
+                "class_name": "9th",
+                "fee_amount": 1800,
+                "discount_amount": 90,
+                "discount_reason": null,
+                "net_amount": 1710,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480204-003",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 5600,
+                "paid_amount": 0,
+                "balance_amount": 5320
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -74,11 +114,31 @@
           "section_name": "SEVEN GIRLS",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 1045,
+            "pending_dues": 1045,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 9,
+                "voucher_id": 4,
+                "student_id": 5,
+                "student_name": "SHAKEELA BIBI",
+                "class_name": "7th",
+                "fee_amount": 1100,
+                "discount_amount": 55,
+                "discount_reason": null,
+                "net_amount": 1045,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480204-003",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 5600,
+                "paid_amount": 0,
+                "balance_amount": 5320
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -94,11 +154,31 @@
           "section_name": "FOUR A",
           "status": "Active",
           "fee": {
-            "total_fee": 0,
-            "pending_dues": 0,
-            "status": "Paid",
-            "due_date": null,
-            "records": []
+            "total_fee": 855,
+            "pending_dues": 855,
+            "status": "Pending",
+            "due_date": "2026-11-25",
+            "records": [
+              {
+                "id": 10,
+                "voucher_id": 4,
+                "student_id": 6,
+                "student_name": "ROHAIL BANO ",
+                "class_name": "4th",
+                "fee_amount": 900,
+                "discount_amount": 45,
+                "discount_reason": null,
+                "net_amount": 855,
+                "is_paid": 0,
+                "voucher_no": "V-2026-480204-003",
+                "month_year": "2026-11",
+                "due_date": "2026-11-25",
+                "voucher_status": "Pending",
+                "total_amount": 5600,
+                "paid_amount": 0,
+                "balance_amount": 5320
+              }
+            ]
           },
           "results": [],
           "test_series": [],
@@ -115,11 +195,21 @@
         "failed": 0
       },
       "fee": {
-        "total_vouchers": 0,
+        "total_vouchers": 1,
         "total_paid": 0,
-        "pending_balance": 0,
+        "pending_balance": 5320,
         "late_fee_fine": 500,
-        "records": []
+        "records": [
+          {
+            "voucher_no": "V-2026-480204-003",
+            "month_year": "2026-11",
+            "due_date": "2026-11-25",
+            "total_amount": 5600,
+            "paid_amount": 0,
+            "balance_amount": 5320,
+            "status": "Pending"
+          }
+        ]
       },
       "announcements": [
         {
@@ -141,7 +231,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-09-29T01:59:22.529Z"
+      "updated_at": "2026-11-07T15:14:50.870Z"
     },
     "FAM0005959": {
       "family_code": "FAM0005959",
@@ -849,5 +939,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-11-07T15:14:41.292Z"
+  "last_updated": "2026-11-07T15:14:42.638Z"
 }
