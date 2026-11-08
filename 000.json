@@ -1179,6 +1179,48 @@
         }
       ],
       "updated_at": "2026-11-08T15:42:51.080Z"
+    },
+    "FAM0004331": {
+      "family_code": "FAM0004331",
+      "students": [
+        {
+          "id": 17,
+          "admission_no": "STU-2026-9205",
+          "roll_no": null,
+          "name": "Shumaila Chishti",
+          "class_name": null,
+          "section_name": null,
+          "status": "Active",
+          "fee": {
+            "records": [],
+            "total_fee": 0,
+            "pending_dues": 0,
+            "status": "Pending",
+            "due_date": null
+          },
+          "results": [],
+          "test_series": [],
+          "books": [],
+          "attendance_monthly": []
+        }
+      ],
+      "total_students": 1,
+      "results": [],
+      "result_summary": {
+        "total_results": 0,
+        "average_percentage": 0,
+        "passed": 0,
+        "failed": 0
+      },
+      "fee": {
+        "total_vouchers": 0,
+        "total_paid": 0,
+        "pending_balance": 0,
+        "late_fee_fine": 0,
+        "records": []
+      },
+      "announcements": [],
+      "updated_at": "2026-11-08T15:42:57.168Z"
     }
   },
   "teachers": {
@@ -1199,5 +1241,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-11-08T15:42:52.063Z"
+  "last_updated": "2026-11-08T15:42:57.676Z"
 }
