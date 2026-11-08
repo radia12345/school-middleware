@@ -513,7 +513,20 @@
             ]
           },
           "results": [],
-          "test_series": [],
+          "test_series": [
+            {
+              "id": "series-new-1794153093370-0.19314826765029536",
+              "date": "2026-01-11",
+              "subject": "English",
+              "total_marks": 100,
+              "obtained_marks": 97,
+              "percentage": 97,
+              "grade": "A+",
+              "series_id": 2,
+              "academic_year": "2026",
+              "class_id": 1
+            }
+          ],
           "books": [],
           "attendance_monthly": []
         }
@@ -563,7 +576,7 @@
           "student_id": null
         }
       ],
-      "updated_at": "2026-11-08T15:51:20.853Z"
+      "updated_at": "2026-11-08T15:52:01.269Z"
     },
     "FAM0008047": {
       "family_code": "FAM0008047",
@@ -1260,5 +1273,5 @@
   },
   "announcements": [],
   "homework": [],
-  "last_updated": "2026-11-08T15:51:58.762Z"
+  "last_updated": "2026-11-08T15:52:01.946Z"
 }
